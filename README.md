@@ -14,3 +14,5 @@ Samuel - Video Production
 Alexander - Graphic Design
 
 Dylan Diep - Robotics
+
+No one available for cybersecurity. Likely on Rishabh.
