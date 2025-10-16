@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 if (navTitle) {
   navTitle.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
 }
 
@@ -86,7 +86,7 @@ const menuTitle = document.querySelector(".menu-title");
 
 if (menuTitle) {
   menuTitle.addEventListener("click", () => {
-    window.location.href = "./index.html";
+    window.location.href = "../index.html";
   });
 }
 
@@ -134,3 +134,4 @@ scrollToTopBtn.addEventListener('click', () => {
 
 
 });
+
