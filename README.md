@@ -1,18 +1,12 @@
 # DecaX-Codex
 All 5 CTE's Websites
 
-Different people contributed to different sections of the website, culminating in a conjoined, cohesive artifact for the ITHS CTE department.
+Credits: Rishabh, Rafiu, Eric T
 
 Roles:
 
-Rishabh - General Landing Page
+Rishabh R. - General Landing Page, revising all CTE-specific pages.
 
-Rafiu - Web Design
+Rafiu M. - Created foundation code, to be revised upon.
 
-Samuel - Video Production
-
-Alexander - Graphic Design
-
-Dylan Diep - Robotics
-
-No one available for cybersecurity. Likely on Rishabh.
+Eric T - Images, logos, certain visual aspects.
