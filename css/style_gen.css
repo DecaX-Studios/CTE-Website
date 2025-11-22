@@ -163,6 +163,10 @@ a {
         display: block;
     }
 
+    .mobile-dropdown{
+        left: -1em;
+        top: 0em;
+    }
     .logo-container {
         width: 90vw !important;
         height: 300px !important;
@@ -308,7 +312,7 @@ h3 {
 p {
     margin-top: 3em;
 }
-/*scroll to top button*/
+
 .scroll-to-top {
     position: fixed;
     bottom: 2rem;
