@@ -163,6 +163,10 @@ a {
         display: block;
     }
 
+    .mobile-dropdown{
+        left: -1em;
+        top: 0em;
+    }
     .logo-container {
         width: 90vw !important;
         height: 300px !important;

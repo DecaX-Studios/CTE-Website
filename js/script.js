@@ -14,6 +14,7 @@ if (menuBtn && mobileMenu) {
     });
 }
 
+//reloads page when logo is clicked
 if (logo) {
     logo.addEventListener("click", function(){
         location.reload();
